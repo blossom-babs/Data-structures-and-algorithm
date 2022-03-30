@@ -19,3 +19,7 @@ const arraySign = (nums) => {
 
   return signFunc(product);
 };
+
+/* complexity analysis */
+0(n) - time
+0(1) - space
