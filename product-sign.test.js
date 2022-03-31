@@ -40,8 +40,8 @@ describe("sign of the product of an array", () => {
   });
 });
 
-/*
-const arraySign = (nums) => {
+
+const signedArray = (nums) => {
   let sign = 1;
 
   for (let i = 0; i < nums.length; i++) {
@@ -54,4 +54,4 @@ const arraySign = (nums) => {
 
   return sign;
 };
-*/
+
