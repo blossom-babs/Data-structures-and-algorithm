@@ -4,7 +4,7 @@
   "description": "This repository holds solutions to some of the [leetcode](https://leetcode.com/) challenges I have practiced.",
   "main": "1822-product-sign.js",
   "scripts": {
-    "test": "jest --coverage arithmetic-progression.test.js"
+    "test": "jest --coverage process-dates.test.js"
   },
   "repository": {
     "type": "git",
