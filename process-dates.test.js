@@ -1,3 +1,5 @@
+// This was a coding test by amazon
+
 describe('process date', () => {
   it('converts date string to YYYY-MM-DD format', () => {
     expect(processDates([
