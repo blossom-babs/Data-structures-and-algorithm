@@ -1,6 +1,9 @@
-# Leetcode challenges
+# Data structure and algorithms
 
-This repository holds solutions to some of the [leetcode](https://leetcode.com/) challenges I have practiced. 
+Exercising my problem solving skills by solving coding challenges and optimizing my result for best solution with data structures and complexity analysis.
+
+Problems are categorized into folders named after their sources:
+1. [Leetcode](https://leetcode.com/)
 
 ## Authors
 🌸 __Blossom__
