@@ -1,10 +1,10 @@
 {
-  "name": "leetcode-challenges",
+  "name": "data-structure-and-algorithms",
   "version": "1.0.0",
   "description": "This repository holds solutions to some of the [leetcode](https://leetcode.com/) challenges I have practiced.",
-  "main": "1822-product-sign.js",
+  "main": "",
   "scripts": {
-    "test": "jest --coverage process-dates.test.js",
+    "test": "jest --coverage happyNum.test.js",
     "start": "nodemon ."
   },
   "repository": {
