@@ -28,7 +28,6 @@ const isHappy = n => {
 
     n = ('' + n).split('').map(num => parseInt(num * num))
       .reduce((curr, prev) => curr + prev)
-      console.log(n)
     }
   return false
 }
