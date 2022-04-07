@@ -4,7 +4,7 @@
   "description": "This repository holds solutions to some of the [leetcode](https://leetcode.com/) challenges I have practiced.",
   "main": "",
   "scripts": {
-    "test": "jest --coverage ./leetcode/max-subarray.test.js",
+    "test": "jest --coverage ./leetcode/arrays/twoSum.test.js",
     "start": "nodemon ."
   },
   "repository": {
