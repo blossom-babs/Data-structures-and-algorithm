@@ -4,6 +4,7 @@ complexity anaysis
 0(n) - time
 0(1) - space
 */
+
 function printLinkedList(head) {
   let currEl = head
 
