@@ -1,7 +1,7 @@
 {
   "name": "data-structure-and-algorithms",
   "version": "1.0.0",
-  "description": "This repository holds solutions to some of the [leetcode](https://leetcode.com/) challenges I have practiced.",
+  "description": "This repository holds solutions to my solutions to data structures and algorithmic problems.",
   "main": "",
   "scripts": {
     "test": "jest --coverage ./hackerrank/linkedList/insertAtHead.test.js",

@@ -4,6 +4,7 @@ Exercising my problem solving skills by solving coding challenges and optimizing
 
 Problems are categorized into folders named after their sources:
 1. [Leetcode](https://leetcode.com/)
+1. [hackerRank](https://www.hackerrank.com/)
 
 ## Authors
 🌸 __Blossom__
