@@ -7,6 +7,8 @@ complexity analysis
 
 
 function insertNodeAtHead(head, data) {
+  if(head === null) return new SinglyLinkedListNode(data)
+  
   let llist = new SinglyLinkedListNode(data)
   llist.next = head
   return llist
