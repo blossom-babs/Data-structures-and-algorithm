@@ -1,3 +1,7 @@
+/*
+Run test: npm test ./hackerrank/linkedList/insertAtTail.test.js
+*/
+
 describe('insert node at tail', () => {
 it('inserts new node at the tail of linked list', () => {
   let newNode = new singlyLinkedList()
