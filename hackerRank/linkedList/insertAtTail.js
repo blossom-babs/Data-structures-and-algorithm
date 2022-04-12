@@ -1,13 +1,31 @@
-/*
+/* https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
+
+complexity analysis
+0(n) - time | 0(1) - space
+
+ * For your reference:
+ *
+ * SinglyLinkedListNode {
+ *     int data;
+ *     SinglyLinkedListNode next;
+ * }
+ *
  */
 
-function insertAtTail(head){
-if(!head){
-  head = new SinglyLinkedListNode(head)
-  return head
-}
+function insertAtTail(head) {
+  let newNode = new SinglyLinkedListNode(head)
 
-let current = head
+  if (!head) {
+    head = newNode
+    return head
+  }
 
-while (current.next){}
+  let current = head
+
+  while (current.next) {
+    current = current.next
+  }
+
+  current.next = newNode
+  return current
 }
