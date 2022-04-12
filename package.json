@@ -4,7 +4,7 @@
   "description": "This repository holds solutions to my solutions to data structures and algorithmic problems.",
   "main": "",
   "scripts": {
-    "test": "jest --coverage ./hackerrank/linkedList/insertAtHead.test.js",
+    "test": "jest --coverage ./hackerrank/linkedList/insertAtTail.test.js",
     "start": "nodemon ."
   },
   "repository": {
