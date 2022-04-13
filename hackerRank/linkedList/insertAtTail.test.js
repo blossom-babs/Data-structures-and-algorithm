@@ -1,5 +1,5 @@
 /*
-Run test: npm test ./hackerrank/linkedList/insertAtTail.test.js
+Run test: npm test ./hackerRank/linkedList/insertAtTail.test.js
 */
 
 describe('insert node at tail', () => {

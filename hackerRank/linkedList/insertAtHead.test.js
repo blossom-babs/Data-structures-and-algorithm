@@ -1,3 +1,6 @@
+//Run test: npm test ./hackerRank/linkedList/insertAtHead.test.js
+
+
 describe('#insertAtHead', () => {
   it('inserts node at head of linked list', () => {
     const newNode = new SinglyLinkedList()

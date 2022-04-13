@@ -1,3 +1,6 @@
+//Run test: npm test ./hackerRank/linkedList/printLinkedList.test.js
+
+
 describe('print the element of a linked list', () => {
   it('returns the el in a list', () => {
     let list = new LList()
