@@ -13,6 +13,8 @@ describe('rotational ciphers', () => {
   })
 })
 
+
+
 const rotationalCipher = (string, rotation) => {
 let cipher = []
 
