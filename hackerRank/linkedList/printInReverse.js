@@ -1,4 +1,4 @@
-/* DAY 6 OF A 10-DAY LINKED LIST CHALLENGE WITH SODIQ AYILARA MD
+/* DAY 6 & 7 OF A 10-DAY LINKED LIST CHALLENGE WITH SODIQ AYILARA MD
 
 https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem?isFullScreen=true
 
