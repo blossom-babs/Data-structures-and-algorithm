@@ -2,11 +2,8 @@
 
 https://www.hackerrank.com/challenges/compare-two-linked-lists/problem?isFullScreen=true
 
-Test: npm run ./hackerRank/linkedList/compareTwoList.test.js
+Test: npm test ./hackerRank/linkedList/compareTwoList.test.js
  */
-
-
-
 
 // Complete the CompareLists function below.
 
