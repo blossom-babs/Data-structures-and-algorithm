@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/merge-two-sorted-lists/submissions/
 // Test: npm test ./leetcode/linked-list/mergeLinkedList.test.js
-// 0(n) - time | 0(1) - space
+// 0(n) - time | 0(n) - space
 
 describe('merge two linked list', () => {
 
