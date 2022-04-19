@@ -1,3 +1,5 @@
+// DAY 9 OF A 10-DAY LINKED LIST CHALLENGE
+
 // this question has already been solved during a leetcode practice.
 // Find test here: npm test ./leetcode/linked-list/mergeLinkedList.test.js
 // 0(n) - t | 0(n) - space
