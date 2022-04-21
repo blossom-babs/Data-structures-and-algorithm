@@ -6,7 +6,7 @@ https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=2
 0(n) - time | 0(1) - space
  */
 
-const { ord, ordFrom } = require('js-ord')
+const { ord, ordFrom, isUpper, isLower } = require('js-ord')
 
 describe('rotational ciphers', () => {
   it('encrypts a string by return the third value of every string and number', () => {
@@ -14,8 +14,6 @@ describe('rotational ciphers', () => {
     expect(rotationalCipher("abcdefghijklmNOPQRSTUVWXYZ0123456789", 39)).toBe("nopqrstuvwxyzABCDEFGHIJKLM9012345678")
   })
 })
-
-
 
 const rotationalCipher = (string, rotation) => {
   let cipher = []
@@ -29,11 +27,11 @@ const rotationalCipher = (string, rotation) => {
       str = (Number(str) + rotation) % 10
       cipher.push(str)
     }
-    else if (validChar && str === str.toUpperCase()) {
+    else if (validChar && isUpper(str)) {
       str = ((ord(str) - ord('A')) + rotation) % 26
       cipher.push(ordFrom(ord('A') + str))
     }
-    else if (validChar && str === str.toLowerCase()) {
+    else if (validChar && isLower(str)) {
       str = ((ord(str) - ord('a')) + rotation) % 26
       cipher.push(ordFrom(ord('a') + str))
     }
