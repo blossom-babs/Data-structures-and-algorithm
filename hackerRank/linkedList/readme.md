@@ -2,17 +2,17 @@
 
 | Index | Question | Solution | Test |
 | ----- | -------- | -------- | ---- |
-| 1. | Print the elements of a linked list | [solution]() | [Test]() |
-| 2. | Insert a node at the tail of a linked list | [solution]() | [Test]() |
-| 3. | Insert a node at the head of a linked list | [solution]() | [Test]() |
-| 4. | Insert a node at a specific position in a linked list | [solution]() | [Test]() |
-| 5. | Delete a node | [solution]() | [Test]() |
-| 6. | Print in reverse | [solution]() | [Test]() |
-| 7. | Reverse a linked list | [solution]() | [Test]() |
-| 8. | Compare two linked list | [solution]() | [Test]() |
-| 9. | Get node value | [solution]() | [Test]() |
-| 10. | Delete duplicate-value nodes from a linked list | [solution]() | [Test]() |
-| 11. | Cycle detection | [solution]() | [Test]() |
-| 12. | Find merge points of two lists | [solution]() | [Test]() |
-| 13. | Insert a node into a sorted doubly linked list | [solution]() | [Test]() |
-| 14. | Reverse a doubly linked list | [solution]() | [Test]() |
+| 1. | Print the elements of a linked list | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/printLinkedList.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/printLinkedList.test.js) |
+| 2. | Insert a node at the tail of a linked list | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/insertAtTail.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/insertAtTail.test.js) |
+| 3. | Insert a node at the head of a linked list | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/insertAtHead.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/insertAtHead.test.js) |
+| 4. | Insert a node at a specific position in a linked list | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/insertNodeAtAGivenPos.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/insertNodeAtAGivenPos.test.js) |
+| 5. | Delete a node | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/deleteNodeAtPos.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/deleteNodeAtPos.test.js) |
+| 6. | Print in reverse | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/printInReverse.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/printInReverse.test.js) |
+| 7. | Reverse a linked list | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/printInReverse.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/printInReverse.test.js) |
+| 8. | Compare two linked list | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/compareTwoList.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/compareTwoList.test.js) |
+| 9. | Get node value | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/getNodeValue.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/getNodeValue.test.js) |
+| 10. | Delete duplicate-value nodes from a linked list | [solution]() | [Test]()* |
+| 11. | Cycle detection | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/cycleDetection.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/cycleDetection.test.js)* |
+| 12. | Find merge points of two lists | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/mergePoint.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/mergePoint.test.js)* |
+| 13. | Insert a node into a sorted doubly linked list | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/insertIntoDoublyLinkedList.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/insertIntoDoublyLinkedList.test.js)* |
+| 14. | Reverse a doubly linked list | [solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/reverseDoublyLinkedList.js) | [Test](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/hackerRank/linkedList/reverseDoublyLinkedList.test.js) |
