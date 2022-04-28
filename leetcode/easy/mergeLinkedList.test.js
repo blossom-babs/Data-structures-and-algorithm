@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/merge-two-sorted-lists/submissions/
+// https://leetcode.com/problems/merge-two-sorted-lists/
 // Test: npm test ./leetcode/linked-list/mergeLinkedList.test.js
 // 0(n) - time | 0(n) - space
 

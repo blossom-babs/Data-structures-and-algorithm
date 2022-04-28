@@ -1,6 +1,6 @@
 /* https://leetcode.com/problems/maximum-subarray/
 
-complexity analysis
+complexity analysis 0(n) - time | 0(1) -space
  */
 
 describe('maximum subarray', () => {
