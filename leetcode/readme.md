@@ -1,11 +1,12 @@
 ## Index of solved leetcode questions
 
-| Index | Question | Solution & Test | Difficulty | Tag |
-| ----- | -------- | --------------- | ---------- | --- |
+| Index | Question | Solution & Test | Difficulty | Tag |   |
+| ----- | -------- | --------------- | ---------- | --- | - |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/twoSum.test.js) | Easy | Array, Hash Table|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/addTwoNumbers.test.js) | Medium | Math, Linked List, recursion |
 | 3 | [ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/longestSubstring.test.js) | Medium | Hash table, string, sliding window |
 | 4 | [ Median of Two sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/hard/medianOfSortedArr.test.js) | Hard | Array, Binary Search, Divide and Conquer |
+| 5 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/longestPalindrome.test.js) | Medium | String, Dynamic Programmming | Google |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/palindromeNum.test.js) | EASY | Math |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/mergeLinkedList.test.js) | EASY | Linked List, Recursion |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/group-anagrams.test.js) | Medium | Hash Table, String, Sorting |

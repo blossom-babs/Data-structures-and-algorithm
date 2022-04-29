@@ -4,6 +4,7 @@
 describe('longest palindrome', () => {
   it('returns the longest palindrome substring in a string', () => {
     expect(bruteForceLongestPalindrome('lcnvoknqgejxbfhijmxglisfzjwbtvhodwummdqeggzfczmetrdnoetmcydwddmtubcqmdjwnpzdqcdhplxtezctvgnpobnnscrmeqkwgiedhzsvskrxwfyklynkplbgefjbyhlgmkkfpwngdkvwmbdskvagkcfsidrdgwgmnqjtdbtltzwxaokrvbxqqqhljszmefsyewwggylpugmdmemvcnlugipqdjnriythsanfdxpvbatsnatmlusspqizgknabhnqayeuzflkuysqyhfxojhfponsndytvjpbzlbfzjhmwoxcbwvhnvnzwmkhjxvuszgtqhctbqsxnasnhrusodeqmzrlcsrafghbqjpyklaaqximcjmpsxpzbyxqvpexytrhwhmrkuybtvqhwxdqhsnbecpfiudaqpzsvfaywvkhargputojdxonvlprzwvrjlmvqmrlftzbytqdusgeupuofhgonqoyffhmartpcbgybshllnjaapaixdbbljvjomdrrgfeqhwffcknmcqbhvulwiwmsxntropqzefwboozphjectnudtvzzlcmeruszqxvjgikcpfclnrayokxsqxpicfkvaerljmxchwcmxhtbwitsexfqowsflgzzeynuzhtzdaixhjtnielbablmckqzcccalpuyahwowqpcskjencokprybrpmpdnswslpunohafvminfolekdleusuaeiatdqsoatputmymqvxjqpikumgmxaxidlrlfmrhpkzmnxjtvdnopcgsiedvtfkltvplfcfflmwyqffktsmpezbxlnjegdlrcubwqvhxdammpkwkycrqtegepyxtohspeasrdtinjhbesilsvffnzznltsspjwuogdyzvanalohmzrywdwqqcukjceothydlgtocukc')).toBe('lbabl')
+    expect(longestPalindrome('cbbd')).toBe('bb')
   })
 })
 
@@ -34,3 +35,38 @@ const checkIfPalindrome = string => {
 
   return palindrome === string
 }
+
+
+// 0(n^2) - time | 0(1) - space
+
+const longestPalindrome = function (string) {
+  let max = 0
+  let str = '';
+  let left, right;
+
+  for (let i = 0; i < string.length; i++) {
+    left = i; right = i
+
+    while (left >= 0 && right < string.length && string[left] === string[right]) {
+      if (right - left + 1 > max) {
+        str = string.substring(left, right + 1)
+        max = right - left + 1
+      }
+      left--
+      right++
+    }
+
+    left = i; right = i + 1
+
+    while (left >= 0 && right < string.length && string[left] === string[right]) {
+      if (right - left + 1 > max) {
+        str = string.substring(left, right + 1)
+        max = right - left + 1
+      }
+      left--
+      right++
+    }
+  }
+  return str
+};
+
