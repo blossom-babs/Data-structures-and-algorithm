@@ -1,3 +1,7 @@
+//https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+// npm test ./leetcode/medium/twoSum-ii.test.js
+// 0(n) - time | 0(1) - space
+
 describe('Two sum II: 1-indexed array', () => {
   it('returns the indices of numbers that sum up to target', () =>{
     expect(twoSum([2, 7, 11, 15], 9)).toStrictEqual([1, 2])

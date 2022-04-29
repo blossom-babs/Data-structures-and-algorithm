@@ -1,4 +1,4 @@
-/* https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/
+/* https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 Run test: npm test ./leetcode/two-pointers/bestTimeToBuyAndSellStock.test.js
 

@@ -1,3 +1,7 @@
+// https://leetcode.com/problems/valid-palindrome/
+// Test: npm test ./leetode/easy/isPalindrome.test.js
+// 0(n) - time | 0(1) - space
+
 describe('is valid palindrome', () => {
   it('returns true if phrase is a valid palindrome', () => {
     expect(isPalindrome("Don't nod")).toBeDefined()
