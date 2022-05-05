@@ -34,7 +34,7 @@ class MyStack {
 
   // 0(1) - time && space
   push(x) {
-    return this.stack.push(x)
+    return this.stack[this.stack.length++] = x
   }
 
   // 0(n) - time | 0(1) - space
