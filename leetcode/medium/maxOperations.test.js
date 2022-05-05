@@ -28,7 +28,7 @@ const maxOperations =  (nums, k) => {
   return count
 }
 
-// 0(n) - time | 0(n) - space
+// 0(nlogn) - time | 0(1) - space
  const maxOperationsTwo = (nums, k) => {
   nums = nums.sort((a,b) => a - b)
   
