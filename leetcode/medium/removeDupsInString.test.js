@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/submissions/
+// https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 // Test: npm test ./leetcode/medium/removeDupsInString.test.js
 
 describe('remove duplicates', () => {
