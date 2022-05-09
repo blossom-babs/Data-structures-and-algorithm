@@ -1,5 +1,7 @@
 /* https://leetcode.com/problems/contains-duplicate/
 
+Test: npm test ./leetcode/easy/contains-duplicates.test.js
+
 complexity analysis
 0(n) - time
 0(1) - space

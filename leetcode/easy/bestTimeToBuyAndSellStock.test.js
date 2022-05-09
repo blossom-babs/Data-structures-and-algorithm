@@ -1,6 +1,6 @@
 /* https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-Run test: npm test ./leetcode/two-pointers/bestTimeToBuyAndSellStock.test.js
+Run test: npm test ./leetcode/easy/bestTimeToBuyAndSellStock.test.js
 
 0(n) - time | 0(1) - space
 */

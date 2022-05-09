@@ -1,6 +1,8 @@
 /*
 https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 
+test: npm test ./leetcode/easy/arithmetic-progression.test.js
+
 complexity analysis 
 0(1) space
 0(n) time
