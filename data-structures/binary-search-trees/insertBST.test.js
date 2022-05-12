@@ -1,4 +1,4 @@
-//Test: npm test ./data-structures/binary-search-trees/bst.test.js
+//Test: npm test ./data-structures/binary-search-trees/insertBST.test.js
 
 describe('Binary Search Trees', () => {
   let bNode;
@@ -31,6 +31,7 @@ class BST {
     this.root = null
   }
 
+  // inserts iteratively
   insert(data) {
     let newNode = new BNode(data, null, null)
 
@@ -63,3 +64,5 @@ class BST {
     }
   }
 }
+
+module.exports = BNode;
