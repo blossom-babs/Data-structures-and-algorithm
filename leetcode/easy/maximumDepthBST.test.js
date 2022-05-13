@@ -13,14 +13,14 @@ describe('#max depth of BST', () => {
         bst.insert(bst.root, 9); bst.insert(bst.root, 20);
         bst.insert(bst.root, 15); bst.insert(bst.root, 7)
         console.log(bst.root)
-        expect(bst.maxDepth(bst.root)).toBe(4)
+        expect(maxDepth(bst.root)).toBe(4)
     })
     it('returns the depth of the tree', () => {
         bst.insert(bst.root, 3)
-        expect(bst.maxDepth(bst.root)).toBe(1)
+        expect(maxDepth(bst.root)).toBe(1)
     })
     it('returns the depth of the tree', () => {
-        expect(bst.maxDepth(bst.root)).toBe(0)
+        expect(maxDepth(bst.root)).toBe(0)
     })
 })
 
@@ -50,12 +50,6 @@ class BST {
             if (!root.right) root.right = newNode
             else this.insert(root.right, data)
         }
-    }
-
-    maxDepth(root) {
-        if (!root) return 0
-
-        return 1 + Math.max(this.maxDepth(root.left), this.maxDepth(root.right))
     }
 }
 /**
