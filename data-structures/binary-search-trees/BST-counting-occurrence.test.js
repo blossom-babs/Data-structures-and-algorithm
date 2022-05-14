@@ -33,7 +33,7 @@ class BST {
 
   }
 
-  insertDups(root, data) {
+ insertDups(root, data) {
     let newNode = new Node(data)
 
     if (!root) {
@@ -61,3 +61,4 @@ class BST {
     return root
   }
 }
+
