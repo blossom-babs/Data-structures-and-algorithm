@@ -15,14 +15,14 @@ describe('#BST Searches', () => {
   })
 
   it('find the minimun element in a BST search tree', () => {
-    expect(findMin(bst.root)).toBe(3)
+    expect(findMin(bst.root).data).toBe(3)
   })
 
   it('find the maximum element in a BST search tree', () => {
     expect(findMax(bst.root)).toBe(99)
   })
 
-  fit('finds a specific value in the tree', () => {
+  it('finds a specific value in the tree', () => {
     expect(findVal(bst.root, 45)).toBe(true)
     expect(findVal(bst.root, 95)).toBe(null)
   })
@@ -35,7 +35,7 @@ const findMin = (root) => {
 
   else if (root.left) { return findMin(root.left) }
 
-  else return root.data
+  else return root
 }
 
 const findMax = (root) => {
@@ -49,9 +49,11 @@ const findMax = (root) => {
 }
 
 const findVal = (root, data) => {
-  if(!root) return null
+  if (!root) return null
 
-  if(data === root.data) return true
-  else if(data < root.data) return findVal(root.left, data)
+  if (data === root.data) return true
+  else if (data < root.data) return findVal(root.left, data)
   else return findVal(root.right, data)
 }
+
+module.exports = { findMin }
