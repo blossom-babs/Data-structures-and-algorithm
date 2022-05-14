@@ -20,7 +20,6 @@ describe('#BST remove node', () => {
   })
 
   it('removes a node with one child', () => {
-    console.log('root', bst.root.left)
     expect(removeNode(bst.root, 22).left.right.data).toBe(20)
   })
 })
