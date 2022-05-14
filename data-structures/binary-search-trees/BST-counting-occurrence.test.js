@@ -14,6 +14,7 @@ describe('#BST count occurrencr', () => {
   it('increases the count of a node key', () => {
     expect(bst.root.count).toBe(3)
     expect(bst.root.left.right.left.count).toBe(2)
+    expect(bst.size).toBe(4)
   })
 })
 
@@ -28,6 +29,8 @@ class Node {
 class BST {
   constructor() {
     this.root = null
+    this.size = 0
+
   }
 
   insertDups(root, data) {
@@ -35,6 +38,7 @@ class BST {
 
     if (!root) {
       this.root = newNode
+      this.size++
       return root
     }
 
@@ -42,10 +46,16 @@ class BST {
       root.count++
       return root
     } else if (data < root.data) {
-      if (!root.left) root.left = newNode
+      if (!root.left) {
+        root.left = newNode
+        this.size++
+      }
       else this.insertDups(root.left, data)
     } else {
-      if (!root.right) root.right = newNode
+      if (!root.right) {
+        root.right = newNode
+        this.size++
+      }
       else this.insertDups(root.right, data)
     }
     return root
