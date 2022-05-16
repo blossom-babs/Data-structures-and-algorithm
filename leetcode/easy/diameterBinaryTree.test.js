@@ -22,6 +22,10 @@ describe('Diamter of a binary tree', () => {
     bst.insert(bst.root, 1); bst.insert(bst.root, 2);
     expect(diameterOfABinaryTree(bst.root)).toBe(1)
   })
+
+  it('returns the diamter of a binary tree', () => {
+    expect(diameterOfABinaryTree(bst.root)).toBe(0)
+  })
 })
 
 const diameterOfABinaryTree = root => {
