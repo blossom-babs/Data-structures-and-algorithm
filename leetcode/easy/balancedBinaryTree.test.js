@@ -25,6 +25,10 @@ describe('#Balanced Binary tree', () => {
     bst.insert(bst.root, 8); bst.insert(bst.root, 3);
     expect(balancedBinaryTree(bst.root)).toBe(false)
   })
+
+  it('returns false if tree is not balanced', () => {
+    expect(balancedBinaryTree(bst.root)).toBe(true)
+  })
 })
 
 const balancedBinaryTree = root => {
