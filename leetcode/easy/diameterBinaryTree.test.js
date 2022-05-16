@@ -1,5 +1,6 @@
 //https://leetcode.com/problems/diameter-of-binary-tree/
 // TEST: npm test ./leetcode/easy/diameterBinaryTree.test.js
+//0(1) - space | 0(n) - time
 
 const BST = require("./BST-testcase.test");
 
