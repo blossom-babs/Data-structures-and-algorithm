@@ -8,6 +8,7 @@ describe('is valid palindrome', () => {
     expect(validPalindrome('Amore roma')).toBe(true)
     expect(validPalindrome('A man, a plan, a canal: Panama')).toBe(true)
     expect(validPalindrome(' ')).toBe(true)
+    expect(validPalindrome('aba')).toBe(true)
   })
   it('returns false if phrase is not a valid palindrome', () => {
     expect(validPalindrome('race a car')).toBe(false)
