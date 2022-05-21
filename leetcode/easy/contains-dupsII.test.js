@@ -2,7 +2,7 @@
 //Test: npm test ./leetcode/easy/contains-dupsII.test.js
 
 describe('#contains duplicates II', () => {
-  it('returns true if array contains duplicates and difference of duplicates is less than integer k', () => {
+  it('returns true if array contains duplicates and difference of duplicates(index) is less than integer k', () => {
     expect(containsNearbyDuplicates([3], 3)).toBe(false)
     expect(containsNearbyDuplicates([], 13)).toBe(false)
     expect(containsNearbyDuplicates([1, 2, 3, 1], 3)).toBe(true)

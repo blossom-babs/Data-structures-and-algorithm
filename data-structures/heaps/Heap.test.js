@@ -1,6 +1,7 @@
 class Heap {
   constructor() {
     this.items = []
+    this.size = 0
   }
   swap(idx1, idx2) {
     let temp = this.items[idx1]
@@ -11,10 +12,10 @@ class Heap {
     return Math.floor((idx - 1) / 2)
   }
   leftChildIdx(idx) {
-    return Math.floor((idx * 2) + 1)
+    return (idx * 2) + 1
   }
   rightChildIdx(idx) {
-    return Math.floor((idx * 2) + 2)
+    return (idx * 2) + 2
   }
   parent(idx) {
     return this.items[this.parentIdx(idx)]
@@ -25,11 +26,17 @@ class Heap {
   rightChild(idx) {
     return this.items[this.rightChildIdx(idx)]
   }
-  peek() {
-    return this.items[0]
+
+  hasParent(idx) {
+    return this.parentIdx(idx) >= 0
   }
-  size() {
-    return this.items.length
+
+  hasLeftChild(idx){
+    return this.leftChildIdx(idx) < this.size
+  }
+
+  hasRightChild(idx){
+    return this.rightChildIdx(idx) < this.size
   }
 }
 
