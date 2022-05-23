@@ -1,5 +1,5 @@
 /* https://leetcode.com/problems/maximum-subarray/
-Test: npm test ./leetcode/east/max-subarray.test.js
+Test: npm test ./leetcode/easy/max-subarray.test.js
 complexity analysis 0(n) - time | 0(1) -space
  */
 
