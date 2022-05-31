@@ -59,6 +59,6 @@ _Note: Effective from may 31, 2022, I will seperate the questions into their cat
 
 ## Backtracking
 
-| No | LC Index | Question | Solution & Test | Difficulty | Tag |
-| -- | -------- | -------- | --------------- | ---------- | --- |
+| No | LC Index | Question | Solution & Test | Difficulty | Tags |
+| -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/combinationSum.py) | Medium | Array, Backtracking, Depth First search, Recursion |
