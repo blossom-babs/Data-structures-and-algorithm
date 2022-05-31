@@ -3,7 +3,6 @@ import unittest
 
 """
 https://leetcode.com/problems/combination-sum/
-0(1) - SC | 0(n^2) - TC
 """
 
 class Solution:
