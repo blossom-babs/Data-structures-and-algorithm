@@ -2,6 +2,8 @@
 
 Before you run any test, please be sure that the test case does not have (x) before it, this means the test would be skipped. To run the test, remove the (x) letter.
 
+_Note: Effective from may 31, 2022, I will seperate the questions into their category for easy pattern tracking. Grouping and solving patterns is very important in effectively studying DSA. Happy hacking ✌️_
+
 | Index | Question | Solution & Test | Difficulty | Tag |   |
 | ----- | -------- | --------------- | ---------- | --- | - |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/twoSum.test.js) | Easy | Array, Hash Table|
@@ -54,3 +56,9 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/product-sign.test.js) | Easy | Array, Math |
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/maxDiff.test.js) | Easy | Array |
 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/firstPalindrome.test.js) | Easy | Array, Two-pointers, Strings |
+
+## Backtracking
+
+| No | LC Index | Question | Solution & Test | Difficulty | Tag |
+| -- | -------- | -------- | --------------- | ---------- | --- |
+| 1 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/combinationSum.py) | Medium | Array, Backtracking, Depth First search, Recursion |
