@@ -1,6 +1,11 @@
 from typing import List
 import unittest
 
+"""
+https://leetcode.com/problems/permutations/
+0(n) - SC | 0(2^n) - TC
+"""
+
 def permute(nums:List[int]) -> List[List[int]]:
   res = []
 
