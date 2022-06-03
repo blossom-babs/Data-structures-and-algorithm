@@ -63,3 +63,10 @@ _Note: Effective from may 31, 2022, I will seperate the questions into their cat
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/combinationSum.py) | Medium | Array, Backtracking, Depth First search, Recursion |
 | 2 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/permutation.py) | Medium | Array, Backtracking |
+
+## Matrix
+
+| No | LC Index | Question | Solution & Test | Difficulty | Tags |
+| -- | -------- | -------- | --------------- | ---------- | ---- |
+| 1 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/transposeMatrix.py) | Easy | Array, Matrix, Simulation |
+| 2 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/rangeSumQuery.py) | Medium | Array, Design, Matrix, Prefix Sum |
