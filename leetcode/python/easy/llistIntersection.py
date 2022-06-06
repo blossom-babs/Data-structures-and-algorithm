@@ -1,2 +1,1 @@
-for _ in range(5):
-  print(_)
+#singly

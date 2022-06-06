@@ -1,7 +1,10 @@
 from typing import List
 import unittest
 
-
+'''
+https://leetcode.com/problems/n-queens-ii/
+0(2 ^ N) - TC | 0(N ^ 2) - SC
+'''
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         col = set()
