@@ -1,6 +1,11 @@
 from typing import List
 import unittest
 
+'''
+https://leetcode.com/problems/merge-sorted-array/
+0(n + m) - TC | 0(1) - SC
+'''
+
 def merge(nums1:List[int], nums2:List[int], m:int, n:int) -> None:
   last = m + n - 1
 
