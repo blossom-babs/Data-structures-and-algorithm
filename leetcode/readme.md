@@ -63,6 +63,7 @@ _Note: Effective from may 31, 2022, I will seperate the questions into their cat
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/combinationSum.py) | Medium | Array, Backtracking, Depth First search, Recursion |
 | 2 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/permutation.py) | Medium | Array, Backtracking |
+| 3 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/subsets.py) | Medium | Array, Backtracking, Bit Manipulation |
 
 ## Matrix
 
