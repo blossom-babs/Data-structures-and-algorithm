@@ -78,6 +78,7 @@ _Note: Effective from may 31, 2022, I will seperate the questions into their cat
 | No | LC Index | Question | Solution & Test | Difficulty | Tags |
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/runningSum.py) | Easy | Array, Prefix sum |
+| 2 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/productExceptSelf.py) | Medium | Array, Prefix sum | * |
 
 ## Linked List
 
