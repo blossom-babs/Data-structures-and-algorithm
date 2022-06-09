@@ -81,6 +81,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 2 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/productExceptSelf.py) | Medium | Array, Prefix sum |
 | 3 | 88 | [Merge sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/mergeSortedArr.py) | Easy | Array, Two Pointers, Sorting | * |
 | 4 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/validSudoky.py) | Medium | Array, Hash Table, Matrix |
+| 5 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/twoSunII.py) | Medium | Array, Two Pointers, Binary Search |
 
 ## Linked List
 
