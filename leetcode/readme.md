@@ -88,3 +88,8 @@ _Note: Effective from may 31, 2022, I will seperate the questions into their cat
 | No | LC Index | Question | Solution & Test | Difficulty | Tags |
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 160 | [Intersection of Two Linked List](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/llistIntersection.py) | Easy | Hash Table, Linked List, Two Pointers |
+## Strings
+
+| No | LC Index | Question | Solution & Test | Difficulty | Tags |
+| -- | -------- | -------- | --------------- | ---------- | ---- |
+| 1 | 1332 | [Remove Palindromic Subsequence](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/removePalindromeSub.py) | Easy | String, Two Pointers |
