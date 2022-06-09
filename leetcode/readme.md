@@ -7,8 +7,8 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/twoSum.test.js) | Easy | Array, Hash Table| ARRAY |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/addTwoNumbers.test.js) | Medium | Math, Linked List, recursion | LINKED LIST |
 | 3 | [ Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/longestSubstring.test.js) | Medium | Hash table, string, sliding window | STRING |
-| 4 | [ Median of Two sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/hard/medianOfSortedArr.test.js) | Hard | Array, Binary Search, Divide and Conquer | Facebook | ARRAY |
-| 5 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/longestPalindrome.test.js) | Medium | String, Dynamic Programmming | Google | STRING |
+| 4 | [ Median of Two sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/hard/medianOfSortedArr.test.js) | Hard | Array, Binary Search, Divide and Conquer | ARRAY |
+| 5 | [ Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/longestPalindrome.test.js) | Medium | String, Dynamic Programmming | STRING |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/longestPalindrome.test.js) | Medium | Math | ARRAY |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/palindromeNum.test.js) | Easy | Math | ARRAY |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/romanToInt.test.js) | Easy | Hashtable, Math, String | STRING | 
@@ -78,9 +78,9 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | No | LC Index | Question | Solution & Test | Difficulty | Tags |
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/runningSum.py) | Easy | Array, Prefix sum |
-| 2 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/productExceptSelf.py) | Medium | Array, Prefix sum | * |
-| 3 | 88 | [Merge sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/mergeSortedArr.py) | Medium | Array, Two Pointers, Sorting | * |
-| 4 | 36 | [Valid Sudoku](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/mergeSortedArr.py) | Medium | Array, Two Pointers, Sorting | * |
+| 2 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/productExceptSelf.py) | Medium | Array, Prefix sum |
+| 3 | 88 | [Merge sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/mergeSortedArr.py) | Easy | Array, Two Pointers, Sorting | * |
+| 4 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/validSudoky.py) | Medium | Array, Hash Table, Matrix |
 
 ## Linked List
 
