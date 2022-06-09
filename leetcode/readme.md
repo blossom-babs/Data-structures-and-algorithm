@@ -93,3 +93,9 @@ _Note: Effective from may 31, 2022, I will seperate the questions into their cat
 | No | LC Index | Question | Solution & Test | Difficulty | Tags |
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 1332 | [Remove Palindromic Subsequence](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/removePalindromeSub.py) | Easy | String, Two Pointers |
+
+## 1-D Dynamic Programming
+
+| No | LC Index | Question | Solution & Test | Difficulty | Tags |
+| -- | -------- | -------- | --------------- | ---------- | ---- |
+| 1 | 70 | [Climbing Stairse](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/climbStairs.py) | Easy | Math, Dynamic Programming, Memoization |
