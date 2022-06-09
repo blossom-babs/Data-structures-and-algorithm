@@ -52,8 +52,9 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/maxOperations.test.js) | Medium | Array, Sorting, Hash Table, Two Pointers |
 | 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/string-swap.test.js) | Easy | Hash Table, String, Counting |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/product-sign.test.js) | Easy | Array, Math |
-| 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/maxDiff.test.js) | Easy | Array |
-| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/firstPalindrome.test.js) | Easy | Array, Two-pointers, Strings |
+
+
+
 
 ## Backtracking
 
@@ -82,6 +83,8 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 3 | 88 | [Merge sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/mergeSortedArr.py) | Easy | Array, Two Pointers, Sorting | * |
 | 4 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/validSudoky.py) | Medium | Array, Hash Table, Matrix |
 | 5 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/twoSunII.py) | Medium | Array, Two Pointers, Binary Search |
+| 6 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/firstPalindrome.test.js) | Easy | Array, Two-pointers, Strings |
+| 7 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/maxDiff.test.js) | Easy | Array |
 
 ## Linked List
 
