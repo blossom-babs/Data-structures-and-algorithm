@@ -96,7 +96,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | No | LC Index | Question | Solution & Test | Difficulty | Tags |
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 1332 | [Remove Palindromic Subsequence](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/removePalindromeSub.py) | Easy | String, Two Pointers |
-| 2 | 1332 | [Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/lengthOfLongestSubstring.py) | Medium | String, Hash Table, Sliding window |
+| 2 | 3 | [Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/lengthOfLongestSubstring.py) | Medium | String, Hash Table, Sliding window |
 
 ## 1-D Dynamic Programming
 
