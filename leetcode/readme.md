@@ -85,6 +85,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 5 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/twoSunII.py) | Medium | Array, Two Pointers, Binary Search |
 | 6 | 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/firstPalindrome.test.js) | Easy | Array, Two-pointers, Strings |
 | 7 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/maxDiff.test.js) | Easy | Array |
+| 8 | 1658 | [Minimum Operations to reduce x to zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/minOperations.py) | Medium | Array, Hash Table, Binary Search, Sliding window, Prefix sum |
 
 ## Linked List
 
