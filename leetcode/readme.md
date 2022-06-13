@@ -87,6 +87,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 7 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/maxDiff.test.js) | Easy | Array |
 | 8 | 1658 | [Minimum Operations to reduce x to zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/minOperations.py) | Medium | Array, Hash Table, Binary Search, Sliding window, Prefix sum |
 | 9 | 1658 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/maxUniqueSubArray.py) | Medium | Array, Hash Table, Sliding window |
+| 10 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/medium/longestConsecutiveSequence.py) | Medium | Array, Hash Table, Union Find |
 
 ## Linked List
 
