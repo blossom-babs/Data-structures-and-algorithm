@@ -103,6 +103,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 1 | 1332 | [Remove Palindromic Subsequence](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/removePalindromeSub.py) | Easy | String, Two Pointers |
 | 2 | 3 | [Longest Substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/lengthOfLongestSubstring.py) | Medium | String, Hash Table, Sliding window |
 | 3 | - | [Encode and decode strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/encodeDecode.py) | Medium | String, Design |
+| 4 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/characterReplacement.py) | Medium | Hash Table, String, Sliding Window |
 
 ## 1-D Dynamic Programming
 
