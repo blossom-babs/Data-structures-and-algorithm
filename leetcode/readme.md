@@ -2,6 +2,8 @@
 
 Before you run any test, please be sure that the test case does not have (x) before it, this means the test would be skipped. To run the test, remove the (x) letter.
 
+## javascript
+
 | Index | Question | Solution & Test | Difficulty | Tag | Topic  |
 | ----- | -------- | --------------- | ---------- | --- | ------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/easy/twoSum.test.js) | Easy | Array, Hash Table| ARRAY |
