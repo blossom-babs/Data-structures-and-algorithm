@@ -46,23 +46,25 @@ def hasPath(edge, src, dst):
 # iterative bfs
 def hasPath_bfs(edge, src, dst):
   queue = collections.deque([src])
-  
   while queue:
-    curr = queue.pop()
+    curr = queue.popleft()
     if curr == dst:
       return True
-    for neighbor in edge[src]:
+    for neighbor in edge[curr]:
       queue.append(neighbor)
   return False
 
+  
 class Test(unittest.TestCase):
-  def test_hashPath(self):
+  def test_hasPath(self):
     self.assertEqual(hasPath(adjacency_list, 'f', 'j'), False)
     self.assertEqual(hasPath(adjacency_list, 'f', 'k'), True)
+  
+  def test_hasPathBFS(self):
+    self.assertEqual(hasPath_bfs(adjacency_list, 'f', 'j'), False)
+    self.assertEqual(hasPath_bfs(adjacency_list, 'f', 'k'), True)
     
-  def test_hashPathBFS(self):
-    self.assertEqual(hasPath(adjacency_list, 'f', 'p'), False)
-    self.assertEqual(hasPath(adjacency_list, 'f', 'k'), True)
+ 
 
 if __name__ == "__main__":
   unittest.main()
