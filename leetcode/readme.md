@@ -124,4 +124,5 @@ Before you run any test, please be sure that the test case does not have (x) bef
 
 | No | LC Index | Question | Solution & Test | Difficulty | Tags |
 | -- | -------- | -------- | --------------- | ---------- | ---- |
-| 1 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/numsIslands.py) | Medium | Graph, Depth First Search, Breadth First Search, Union Find, Matric |
+| 1 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/numsIslands.py) | Medium | Graph, Depth First Search, Breadth First Search, Union Find, Matrix |
+| 2 | 1971 | [Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/data-structures/graphs/undirected_path.py) | Easy | Graph, Depth First Search, Breadth First Search |
