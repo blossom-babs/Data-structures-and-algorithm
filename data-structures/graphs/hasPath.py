@@ -53,6 +53,7 @@ def hasPath_bfs(edge, src, dst):
       return True
     for neighbor in edge[src]:
       queue.append(neighbor)
+  return False
 
 class Test(unittest.TestCase):
   def test_hashPath(self):
