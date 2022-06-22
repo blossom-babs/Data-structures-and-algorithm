@@ -69,11 +69,14 @@ adjacency_list = [
     ['o', 'n']
 ]
 
-
 class Test(unittest.TestCase):
     def test_undirectedPath(self):
         self.assertEqual(undirectedPath(adjacency_list, 'j', 'o'), False)
         self.assertEqual(undirectedPath(adjacency_list, 'j', 'm'), True)
+        
+    def test_int(self):
+      self.assertEqual(undirectedPath([[0,1],[1,2],[2,0]], 0, 2), True)
+      self.assertEqual(undirectedPath([[0,1],[0,2],[3,5],[5,4],[4,3]], 0, 5), False)
 
 
 if __name__ == "__main__":
