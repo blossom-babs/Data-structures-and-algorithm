@@ -16,6 +16,7 @@ adjacency_list = {
 }
 hasPath(f, k) # True
 
+NOTE:
 1. function hasPath
 2. It takes in these param - obj(adjacency_list), two nodes (source and destination)
   ---> adjacency list is an object representing the relationship between nodes (or vertices) in a graph
@@ -33,6 +34,8 @@ adjacency_list = {
   'j': ['i'],
   'k': []
 }
+
+#0(e) - TC | 0(n) - SC for both solution
 
 # recursive dfs
 def hasPath(edge, src, dst):
