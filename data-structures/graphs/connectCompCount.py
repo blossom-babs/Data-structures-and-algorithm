@@ -18,6 +18,9 @@ connectedComponentsCount({
   4: [3, 2]
 }) # 2
 '''
+import unittest
+# 0(e) tc | 0(n) - sc
+
 cc = {
     0: [8, 1, 5],
     1: [0],
@@ -27,6 +30,17 @@ cc = {
     3: [2, 4],
     4: [3, 2]
 }  # 2
+
+cc_2 = {
+    3: [],
+    4: [6],
+    6: [4,5,7,8],
+    8: [6],
+    7: [6],
+    5: [6],
+    1: [2],
+    2: [1]
+}  # 3
 
 
 def connectedComponentsCount(graph):
@@ -46,4 +60,10 @@ def dfs(graph, key, visited):
     return True
 
 
-print(connectedComponentsCount(cc))
+class Test(unittest.TestCase):
+  def test_connectComp(self):
+    self.assertEqual(connectedComponentsCount(cc), 2)
+    self.assertEqual(connectedComponentsCount(cc_2), 3)
+
+if __name__ == "__main__":
+  unittest.main()
