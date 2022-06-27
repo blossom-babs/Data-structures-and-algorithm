@@ -118,6 +118,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/climbStairs.py) | Easy | Math, Dynamic Programming, Memoization |
 | 2 | 583 | [Delete operation for two strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/minDistance.py) | Medium | String, Dynamic Programming |
+| 3 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/minCostClimbingStairs.py) | Easy | Array, Dynamic Programming |
 
 ## 2-D Dynamic Programming
 
