@@ -40,6 +40,8 @@ test_03 = [
 ]
 #island_count(grid) # -> 0
 
+#tc = 0(rc) | sc 0(rc)
+
 def island_count(grid):
   ROWS, COLS = len(grid), len(grid[0])
   visited = set()
