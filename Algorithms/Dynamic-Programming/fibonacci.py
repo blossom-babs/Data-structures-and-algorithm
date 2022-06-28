@@ -1,3 +1,5 @@
+import unittest
+
 '''
 Fibonacci
 
@@ -17,6 +19,11 @@ def fib(n, memo = {}):
   memo[n] = fib(n - 1) + fib(n -1)
   return memo[n]
 
-print(fib(4))
-print(fib(6))
-print(fib(50))
+class Test(unittest.TestCase):
+  def test_fib(self):
+    self.assertEqual(fib(9), 128)
+    self.assertEqual(fib(50), 281474976710656)
+    self.assertEqual(fib(2), 1)
+    
+if __name__ == "__main__":
+  unittest.main()
