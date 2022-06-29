@@ -120,6 +120,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | No | LC Index | Question | Solution & Test | Difficulty | Tags |
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/triangle.py) | Medium | Array, Dynamic Programming |
+| 2 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/uniquePaths.py) | Medium | Math, Dynamic Programming, Combinatorics |
 
 ## Graph
 
