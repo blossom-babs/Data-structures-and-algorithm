@@ -60,6 +60,8 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 2 | 583 | [Delete operation for two strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/minDistance.py) | Medium | String, Dynamic Programming |
 | 3 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/minCostClimbingStairs.py) | Easy | Array, Dynamic Programming |
 | 4 | 5 | [Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/longestPalindromicString.py) | Medium | String, Dynamic Programming |
+| 5 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/houseRobber.py) | Medium | Array, Dynamic Programming |
+| 6 | 198 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/houseRobberII.py) | Medium | Array, Dynamic Programming |
 
 ## 2-D Dynamic Programming
 
