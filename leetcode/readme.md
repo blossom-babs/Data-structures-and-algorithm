@@ -2,6 +2,13 @@
 
 Before you run any test, please be sure that the test case does not have (x) before it, this means the test would be skipped. To run the test, remove the (x) letter.
 
+## Solutions to [Grind 120](https://www.techinterviewhandbook.org/grind75?mode=preferences&hours=4&weeks=26) curated list
+
+| No | LC Index | Question | Solution & Test | Difficulty | Tags |
+| -- | -------- | -------- | --------------- | ---------- | ---- |
+| 1 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/validPalindrome.py) | Easy | String, Two pointers |
+
+
 ## Solutions to [Neetcode](https://neetcode.io/) curated list
 ## Backtracking
 
