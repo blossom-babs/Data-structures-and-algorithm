@@ -8,6 +8,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/validPalindrome.py) | Easy | String, Two pointers |
 | 2 | 121 | [Best Time to Buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/maxProfit.py) | Easy | String, Dynamic Programming |
+| 3 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/twoSum.py) | Easy | Array, Hash Table |
 
 
 ## Solutions to [Neetcode](https://neetcode.io/) curated list
