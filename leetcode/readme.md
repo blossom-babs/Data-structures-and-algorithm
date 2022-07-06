@@ -82,6 +82,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 1 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/triangle.py) | Medium | Array, Dynamic Programming |
 | 2 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/uniquePaths.py) | Medium | Math, Dynamic Programming, Combinatorics |
 | 3 | 1143 | [Longest Common subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/longestCommonSubsequence.py) | Medium | String, Dynamic Programming |
+| 4 | 309 | [Best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/maxProfitCooldown.py) | Medium | Array, Dynamic Programming |
 
 ## Graph
 
