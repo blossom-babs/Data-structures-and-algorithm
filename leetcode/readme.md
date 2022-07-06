@@ -70,8 +70,9 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 3 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/minCostClimbingStairs.py) | Easy | Array, Dynamic Programming |
 | 4 | 5 | [Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/longestPalindromicString.py) | Medium | String, Dynamic Programming |
 | 5 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/houseRobber.py) | Medium | Array, Dynamic Programming |
-| 6 | 198 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/houseRobberII.py) | Medium | Array, Dynamic Programming |
+| 6 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/houseRobberII.py) | Medium | Array, Dynamic Programming |
 | 7 | 746 | [Min cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/minCostClimbingStairs.py) | Easy | Array, Dynamic Programming |
+| 8 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/palindromicSubstring.py) | Medium | String, Dynamic Programming |
 
 ## 2-D Dynamic Programming
 
