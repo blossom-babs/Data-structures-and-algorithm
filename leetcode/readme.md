@@ -10,6 +10,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 2 | 121 | [Best Time to Buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/maxProfit.py) | Easy | String, Dynamic Programming |
 | 3 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/twoSum.py) | Easy | Array, Hash Table |
 | 4 | 1 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/isAnagram.py) | Easy | Hash Table, string, sorting |
+| 5 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/validParentheses.py) | Easy | String, Stack |
 
 
 ## Solutions to [Neetcode](https://neetcode.io/) curated list
