@@ -1,5 +1,9 @@
 import unittest
 
+'''
+https://leetcode.com/problems/valid-parentheses/
+0(n) - tc & 0(n) - sc
+'''
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
