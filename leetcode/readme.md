@@ -94,3 +94,9 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 2 | 1971 | [Find If Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/data-structures/graphs/undirected_path.py) | Easy | Graph, Depth First Search, Breadth First Search |
 | 3 | 997 | [Find the town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/easy/findJudge.py) | Easy | Array, Graph, Hash table |
 | 4 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/maxAreaIslands.py) | Medium | Array, Depth-First Search, Union Find, Matrix |
+
+## Greedy
+
+| No | LC Index | Question | Solution & Test | Difficulty | Tags |
+| -- | -------- | -------- | --------------- | ---------- | ---- |
+| 1 | 56 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/maxSubArray.py) | Medium | Array, Divide and conquer, Dynamic Programming |
