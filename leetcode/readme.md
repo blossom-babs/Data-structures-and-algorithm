@@ -101,3 +101,4 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 56 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/medium/maxSubArray.py) | Medium | Array, Divide and conquer, Dynamic Programming |
 | 2 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/)| [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/greedy/jumpGame.py) | Medium | Array, Greedy, Dynamic Programming |
+| 3 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/greedy/jumpGameII.py) | Medium | Array, Greedy, Dynamic Programming |
