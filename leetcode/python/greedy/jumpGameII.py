@@ -3,6 +3,7 @@ import unittest
 
 '''
 https://leetcode.com/problems/jump-game-ii/
+0(n) - tc | 0(1) - sc
 '''
 
 class Solution:
