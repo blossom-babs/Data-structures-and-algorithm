@@ -6,7 +6,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 
 | No | LC Index | Question | Solution & Test | Difficulty | Tags |
 | -- | -------- | -------- | --------------- | ---------- | ---- |
-| 1 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/containsDup.py) | Easy | Array, Hash Table, Sorting |
+| 1 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/containsDups.py) | Easy | Array, Hash Table, Sorting |
 
 
 ## Solutions to [Grind 120](https://www.techinterviewhandbook.org/grind75?mode=preferences&hours=4&weeks=26) curated list
