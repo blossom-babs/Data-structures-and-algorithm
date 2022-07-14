@@ -1,5 +1,4 @@
-import heapq
-import unittest
+import unittest, heapq
 from pip import List
 
 """
