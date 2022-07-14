@@ -3,10 +3,15 @@ import unittest
 
 class Solution:
   
-    # intuitive trave
+    # intuitive traversal  0(n) - tc | 0(1) - sc
+    
+    def missingNumber1(self, nums:List[int]) -> int:
+      for i in range(len(nums) + 1):
+        if i not in nums:
+          return i
   
     # sort traversal 0(n) - tc | 0(1) - sc
-    def missingNumber1(self, nums:List[int]) -> int:
+    def missingNumber2(self, nums:List[int]) -> int:
       i = 0
       
       while i < len(nums):
@@ -40,6 +45,14 @@ class Test(unittest.TestCase):
     self.assertEqual(Solution.missingNumber1(self, [0,1]), 2)
     self.assertEqual(Solution.missingNumber1(self, [1]), 0)
     self.assertEqual(Solution.missingNumber1(self, []), 0)
+    
+  def test_missingNumber2(self):
+    self.assertEqual(Solution.missingNumber1(self, [9,6,4,2,3,5,7,0,1]), 8)
+    self.assertEqual(Solution.missingNumber1(self, [3, 0, 1]), 2)
+    self.assertEqual(Solution.missingNumber1(self, [0,1]), 2)
+    self.assertEqual(Solution.missingNumber1(self, [1]), 0)
+    self.assertEqual(Solution.missingNumber1(self, []), 0)
+    
     
   def test_missingNumber3(self):
     self.assertEqual(Solution.missingNumber3(self, [9,6,4,2,3,5,7,0,1]), 8)
