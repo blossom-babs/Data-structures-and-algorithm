@@ -3,7 +3,7 @@ import unittest
 
 class Solution:
   
-    # intuitive traversal  0(n) - tc | 0(1) - sc
+    # intuitive traversal  0(n^2) - tc | 0(1) - sc
     
     def missingNumber1(self, nums:List[int]) -> int:
       for i in range(len(nums) + 1):
