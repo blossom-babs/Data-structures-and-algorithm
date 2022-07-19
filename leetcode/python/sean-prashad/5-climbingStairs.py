@@ -7,16 +7,13 @@ import unittest
 class Solution:
     #0(n) - tc | 0(n) - sc
     def climbStairs(self, n: int) -> int:
-        one, two = 1, 1
+        count = [1, 2]
 
-        for i in range(n - 1):
-            temp = one
-            one = one + two
-            two = temp
+        for i in range(2, n):
+            count.append((n - 1) + (n - 2))
+        return count[n - 1]
 
-        return one
-
-    #0(n^2) - tc | 0(n) - sc
+    #0(2^n) - tc | 0(n) - sc
     def climbStairsRecurse(self, n: int) -> int:
         memo = {}
 
