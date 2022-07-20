@@ -123,3 +123,10 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/BFS/jumpGameIII.py) | Medium | Array, Breadth-first search, Depth-first search |
 
+## Bit Manipulation
+
+| No | LC Index | Question | Solution & Test | Difficulty | Tags |
+| -- | -------- | -------- | --------------- | ---------- | ---- |
+| 1 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/countingBits.py) | Easy | Bit Manipulation, Dynamic Programming |
+
+
