@@ -11,6 +11,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 3 | 448 | [ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/3-findDisappearedNumbers.py) | Easy | Array, Hash Table |
 | 4 | 136 | [Single Number](https://leetcode.com/problems/single-number/submissions/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/4-singleNumber.py) | Easy | Array, Bit Manipulation |
 | 5 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/5-climbingStairs.py) | Easy | Math, Dynamic Programming, Memoization |
+| 6 | 121 | [Best Time to Buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/6-bestTimeToSell.py) | Easy | Array, Dynamic Programming |
 
 
 ## Solutions to [Grind 120](https://www.techinterviewhandbook.org/grind75?mode=preferences&hours=4&weeks=26) curated list
