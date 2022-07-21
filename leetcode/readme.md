@@ -129,5 +129,6 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/countingBits.py) | Easy | Bit Manipulation, Dynamic Programming |
 | 2 | 191 | [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/hammingWeight.py) | Easy | Bit Manipulation, Divide and conquer |
+| 3 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/reverseBits.py) | Easy | Bit Manipulation, Divide and conquer |
 
 
