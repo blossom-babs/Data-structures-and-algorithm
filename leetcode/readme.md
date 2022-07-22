@@ -132,5 +132,6 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 2 | 191 | [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/hammingWeight.py) | Easy | Bit Manipulation, Divide and conquer |
 | 3 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/reverseBits.py) | Easy | Bit Manipulation, Divide and conquer |
 | 4 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/sumTwoInt.py) | Medium | Bit Manipulation, Math |
+| 5 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/reverseInt.py) | Medium | Math |
 
 
