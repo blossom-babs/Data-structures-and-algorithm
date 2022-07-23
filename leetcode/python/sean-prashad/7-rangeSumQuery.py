@@ -6,15 +6,28 @@ https://leetcode.com/problems/range-sum-query-immutable/
 0(n) - tc | 0(n) - sc
 '''
 
+# prefix sum
 class NumArray:
 
     def __init__(self, nums: List[int]):
-        self.prefixSum = [0 for i in range(len(nums) + 1)]
-        for i in range(len(nums)):
-            self.prefixSum[i + 1] = self.prefixSum[i] + nums[i]
+        self.nums = [0]
+        for num in nums:
+            self.nums.append(self.nums[-1] + num)
+            
+    
+    def sumRange(self, left: int, right: int) -> int:
+        return self.nums[right + 1] - self.nums[left]
+        
+#  Brute force
+class NumArray:
+
+    def __init__(self, nums: List[int]):
+        self.nums = nums
+        
 
     def sumRange(self, left: int, right: int) -> int:
-        return self.prefixSum[right + 1] - self.prefixSum[left]
+        return sum(self.nums[left: right + 1])
+        
 
 
 class Test(unittest.TestCase):
