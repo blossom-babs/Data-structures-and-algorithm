@@ -2,7 +2,7 @@
 
 Exercising my problem solving skills by solving coding challenges and optimizing my result for best solution with data structures and complexity analysis.
 
-Find solutions[here](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode)
+Find solutions [here](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode)
 
 ## Solutions to [Sean Prashad Pattern](https://seanprashad.com/leetcode-patterns/) curated list
 
@@ -13,3 +13,5 @@ Find solutions[here](https://github.com/blossom-babs/Data-structures-and-algorit
 | 3 | 448 | [ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/3-findDisappearedNumbers.py) | Easy | Array, Hash Table |
 | 4 | 136 | [Single Number](https://leetcode.com/problems/single-number/submissions/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/4-singleNumber.py) | Easy | Array, Bit Manipulation |
 | 5 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/5-climbingStairs.py) | Easy | Math, Dynamic Programming, Memoization |
+| 6 | 121 | [Best Time to Buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/6-bestTimeToSell.py) | Easy | Array, Dynamic Programming |
+| 7 | 303 | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/7-rangeSumQuery.py) | Easy | Array, Design,  Prefix Sum |
