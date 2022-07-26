@@ -134,4 +134,12 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 4 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/sumTwoInt.py) | Medium | Bit Manipulation, Math |
 | 5 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/bit-manipulation/reverseInt.py) | Medium | Math |
 
+## Linked List
+
+| No | LC Index | Question | Solution & Test | Difficulty | Tags |
+| -- | -------- | -------- | --------------- | ---------- | ---- |
+| 1 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/linked-list/reverseLinkedList.py) | Easy | Linked List, Recursion |
+
+
+
 
