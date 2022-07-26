@@ -139,6 +139,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | No | LC Index | Question | Solution & Test | Difficulty | Tags |
 | -- | -------- | -------- | --------------- | ---------- | ---- |
 | 1 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/linked-list/reverseLinkedList.py) | Easy | Linked List, Recursion |
+| 2 | 21 | [Merge Two sorted List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/linked-list/mergeLists.py) | Easy | Linked List, Recursion |
 
 
 
