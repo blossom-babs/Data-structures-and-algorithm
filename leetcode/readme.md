@@ -13,6 +13,8 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 5 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/5-climbingStairs.py) | Easy | Math, Dynamic Programming, Memoization |
 | 6 | 121 | [Best Time to Buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/6-bestTimeToSell.py) | Easy | Array, Dynamic Programming |
 | 7 | 303 | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/7-rangeSumQuery.py) | Easy | Array, Design,  Prefix Sum |
+| 8 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/8-hasCycle.py) | Easy | Hash Table, Linked List, Two Pointers |
+| 9 | 876 | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/9-middleLinkedList.py) | Easy | Linked List, Two Pointers |
 
 
 ## Solutions to [Grind 120](https://www.techinterviewhandbook.org/grind75?mode=preferences&hours=4&weeks=26) curated list
