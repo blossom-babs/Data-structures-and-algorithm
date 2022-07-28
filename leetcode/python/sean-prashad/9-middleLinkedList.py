@@ -18,3 +18,25 @@ class Solution:
             slow = slow.next
         return slow
         
+        
+# Brute force approach
+# 0(n ^ 2) - TC | 0(1) - sc
+class Solution:
+    def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        listLen = 0
+        temp = head
+        
+        while temp:
+            listLen += 1
+            temp = temp.next
+            
+        mid = listLen // 2
+        pos = 0
+        
+       
+        while head:
+            if pos == mid:
+                return head
+            head = head.next
+            pos += 1
+        
