@@ -15,6 +15,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 7 | 303 | [Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/7-rangeSumQuery.py) | Easy | Array, Design,  Prefix Sum |
 | 8 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/8-hasCycle.py) | Easy | Hash Table, Linked List, Two Pointers |
 | 9 | 876 | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/9-middleLinkedList.py) | Easy | Linked List, Two Pointers |
+| 10 | 234 | [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/10-palindromeLList.py) | Easy | Linked List, Two Pointers, Stack Recursion |
 | Bonus | 142 | [Linked List cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/bonus-linkedlistII.py) | Easy | Hash Table, Linked List, Two Pointers |
 
 
