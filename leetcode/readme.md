@@ -16,7 +16,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 8 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/8-hasCycle.py) | Easy | Hash Table, Linked List, Two Pointers |
 | 9 | 876 | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/9-middleLinkedList.py) | Easy | Linked List, Two Pointers |
 | 10 | 234 | [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/10-palindromeLList.py) | Easy | Linked List, Two Pointers, Stack Recursion |
-| 11 | 206 | [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/101-reverseLList.py) | Easy | Linked List, Stack Recursion |
+| 11 | 206 | [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/11-reverseLList.py) | Easy | Linked List, Stack Recursion |
 | Bonus | 142 | [Linked List cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/bonus-linkedlistII.py) | Easy | Hash Table, Linked List, Two Pointers |
 
 
