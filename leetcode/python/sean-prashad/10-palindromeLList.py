@@ -9,7 +9,7 @@ class ListNode:
 class Solution:
     def isPalindrome(self, head:ListNode) -> bool:
         llist = []
-        
+         
         while head:
             llist.append(head.val)
             head = head.next

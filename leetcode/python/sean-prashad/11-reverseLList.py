@@ -17,12 +17,11 @@ class Solution:
     # 0(n) - tc | 0(n) - sc
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         def reverse(curr, prev):
-            if curr is None:
-                return prev
-            else:
-                nxt = curr.next
-                curr.next = prev
-                return reverse(nxt, curr)
+            if curr is None: return prev
+    
+            nxt = curr.next
+            curr.next = prev
+            return reverse(nxt, curr)
         return reverse(head, None)
 
     # iterative 0(n) - tc | 0(1) - sc
