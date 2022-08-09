@@ -7,10 +7,10 @@ class ListNode:
         self.val = val
         self.next = next
 
+class Solution:
 # create a dummy node
 # update its pointers using prev
-# 0(n) - TC | 0(1) - SC
-class Solution:
+# 0(n) - TC | 0(n) - SC
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
         dummy = ListNode(next=head)
         prev, curr = dummy, head
@@ -37,7 +37,7 @@ class Solution:
             head.next = nxt
         return head
     
-    # solution 1 pointer - 0(n) - tc | 0(1) - sc
+    # solution 1 pointer - 0(n) - tc | 0(n) - sc
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
         dummy = cur = ListNode()
         dummy.next = head
