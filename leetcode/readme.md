@@ -17,6 +17,7 @@ Before you run any test, please be sure that the test case does not have (x) bef
 | 9 | 876 | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/9-middleLinkedList.py) | Easy | Linked List, Two Pointers |
 | 10 | 234 | [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/10-palindromeLList.py) | Easy | Linked List, Two Pointers, Stack Recursion |
 | 11 | 206 | [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/11-reverseLList.py) | Easy | Linked List, Stack Recursion |
+| 12 | 203 | [Remove linked list Elements](https://leetcode.com/problems/remove-linked-list-elements//) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/12-removeLListEl.py) | Easy | Linked List Recursion |
 | Bonus | 142 | [Linked List cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/bonus-linkedlistII.py) | Easy | Hash Table, Linked List, Two Pointers |
 
 
