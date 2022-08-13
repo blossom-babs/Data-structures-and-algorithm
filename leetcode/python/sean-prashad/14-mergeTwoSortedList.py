@@ -4,7 +4,7 @@ from typing import Optional
 '''
 https://leetcode.com/problems/merge-two-sorted-lists/submissions/
 '''
-
+# 0(m + n) - TC
 
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -14,7 +14,7 @@ class ListNode:
 
 class Solution:
   # recursive
-  # 0(n) - TC | 0(n) - SC
+  # 0(n) - SC
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         def merge(l1, l2):
             if not l1:
@@ -31,7 +31,7 @@ class Solution:
         return merge(list1, list2)
 
     # iterative
-    # 0(n) - TC | 0(1) - SC
+    # 0(1) - SC
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         dummy = ListNode()
         tail = dummy
