@@ -1,6 +1,5 @@
 # https://leetcode.com/problems/binary-search/submissions/
-
-#0(n) - TC | 0(1) - SC
+# 0(log n) - TC | 0(1) - SC
 from typing import List
 import unittest
 
