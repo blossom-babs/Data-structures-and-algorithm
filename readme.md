@@ -23,3 +23,8 @@ Find solutions [here](https://github.com/blossom-babs/Data-structures-and-algori
 | 13 | 83 | [Remove Duplicates from sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/13-removeDupsSortedLList.py) | Easy | Linked List |
 | 14 | 21 | [Merge Two sorted List](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/14-mergeTwoSortedList.py) | Easy | Linked List, Recursion |
 | Bonus | 142 | [Linked List cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/bonus-linkedlistII.py) | Easy | Hash Table, Linked List, Two Pointers |
+
+
+# Chore
+
+1. Test linked list problem in sean prashad pattern
