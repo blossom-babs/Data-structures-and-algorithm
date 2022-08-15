@@ -21,9 +21,15 @@ Find solutions [here](https://github.com/blossom-babs/Data-structures-and-algori
 | 11 | 206 | [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/11-reverseLList.py) | Easy | Linked List, Stack Recursion |
 | 12 | 203 | [Remove linked list Elements](https://leetcode.com/problems/remove-linked-list-elements//) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/12-removeLListEl.py) | Easy | Linked List, Recursion |
 | 13 | 83 | [Remove Duplicates from sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/13-removeDupsSortedLList.py) | Easy | Linked List |
-| 14 | 21 | [Merge Two sorted List](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/14-mergeTwoSortedList.py) | Easy | Linked List, Recursion |
+| 14 | 21 | [Merge Two sorted List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/14-mergeTwoSortedList.py) | Easy | Linked List, Recursion |
+| 15 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/15-binarySearch.py) | Easy | Binary Search, Array |
 | Bonus | 142 | [Linked List cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/bonus-linkedlistII.py) | Easy | Hash Table, Linked List, Two Pointers |
 
+## Javascript solutions
+
+| No | LC Index | Question | Solution & Test | Difficulty | Tags |
+| -- | -------- | -------- | --------------- | ---------- | ---- |
+| 1 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/blossom-babs/Data-structures-and-algorithm/blob/main/leetcode/python/sean-prashad/Javascript/15-binarySearch.test.js) | Easy | Binary Search, Array  |
 
 # Chore
 
