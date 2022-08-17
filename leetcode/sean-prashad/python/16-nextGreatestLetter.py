@@ -1,6 +1,8 @@
 from typing import List
 import unittest
 
+# https://leetcode.com/problems/find-smallest-letter-greater-than-target
+# 0(log n) - TC | 0(1) - SC
 class Solution:
     def nextGreatestLetter(self, letters: List[str], target: str) -> str:
         lower, upper = 0, len(letters) - 1
