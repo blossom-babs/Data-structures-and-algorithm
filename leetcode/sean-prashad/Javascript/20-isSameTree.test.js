@@ -19,12 +19,14 @@ var isSameTree = function (p, q) {
   while (queue.length) {
     const [p, q] = queue.shift()
 
-    if (!p && !q) return true
+    if (!p && !q) continue
     if (!p || !q) return false
     if (p.val !== q.val) return false
 
-    if (p.left || q.left) queue.push([p.left, q.left])
-    if (p.right || q.right) queue.push([p.right, q.right])
+    if (p && q) {
+      queue.push([p.right, q.right])
+      queue.push([p.left, q.left])
+    }
 
   }
   return true
