@@ -29,22 +29,17 @@ class Node:
             self.left.printTree()
         if self.right:
             self.right.printTree()
+            
+    def levelOrderTraversal(self, root):
+      queue = [root]
+      while queue:
+        node = queue.pop(0)
+        print(node.data)
+        if node.left:
+          queue.append(node.left)
+        if node.right:
+          queue.append(node.right)
 
-    def inorderTraversal(self, root):
-        res = []
-        if root:
-            res = self.inorderTraversal(root.left)
-            res.append(root.data)
-            res = res + self.inorderTraversal(root.right)
-        return res
-
-    def PreorderTraversal(self, root):
-        res = []
-        if root:
-            res.append(root.data)
-            res = res + self.PreorderTraversal(root.left)
-            res = res + self.PreorderTraversal(root.right)
-        return res
 
 
 root = Node(10)
@@ -53,6 +48,6 @@ root.insert(15)
 root.insert(8)
 root.insert(5)
 root.insert(12)
-root.printTree()
-print(root.PreorderTraversal(root))
+# root.printTree()
+print(root.levelOrderTraversal(root))
 # 10, 2, 5, 8, 12, 15
