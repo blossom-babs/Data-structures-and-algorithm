@@ -6,5 +6,8 @@ class Node:
         self.left = left
         self.right = right
         
+    def printTree(self):
+        print(self.data)
+        
 root = Node(10)
-print(root.data)
+root.printTree()
