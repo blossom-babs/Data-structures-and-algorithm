@@ -5,7 +5,8 @@
   "main": "",
   "scripts": {
     "test": "jest --coverage",
-    "start": "nodemon ."
+    "start": "nodemon .",
+    "run-py": "clear && python ./data-structures/binary-trees/python/1-createNodeClass.py"
   },
   "repository": {
     "type": "git",
