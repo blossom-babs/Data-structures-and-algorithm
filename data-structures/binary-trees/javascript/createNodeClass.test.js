@@ -9,5 +9,7 @@ class Node{
 }
 
 let root = new Node(10)
-
-console.log(root)
+root.right = new Node(23)
+root.left = new Node(5)
+root.right.left = new Node(15)
+console.log(root.right.left.data)
