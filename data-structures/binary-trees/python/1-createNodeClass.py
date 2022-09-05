@@ -7,7 +7,19 @@ class Node:
         self.right = None
         
     def printTree(self):
-        print(self)
+        print(self.data)
+        
+        
+        '''
+        10
+     /       \
+ 5             23
+             /
+             15     
+        '''
 
 root = Node(10)
-root.printTree()
+root.right = Node(23)
+root.left = Node(5)
+root.right.left = Node(15)
+root.right.right.printTree()

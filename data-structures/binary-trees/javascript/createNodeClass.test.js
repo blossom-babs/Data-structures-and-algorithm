@@ -9,4 +9,5 @@ class Node{
 }
 
 let root = new Node(10)
+
 console.log(root)
