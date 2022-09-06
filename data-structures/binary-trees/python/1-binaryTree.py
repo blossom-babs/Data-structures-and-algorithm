@@ -29,13 +29,26 @@ class Node:
             self.root = data
 
 
-    def printTree(self):
+    def preorder(self):
+        print(self.root)
+        if self.left:
+            self.left.printTree()
+        if self.right:
+            self.right.printTree()
+            
+    def inorder(self):
+        if self.left:
+            self.left.printTree()
+        print(self.root)
+        if self.right:
+            self.right.printTree()
+        
+    def postorder(self):
         if self.left:
             self.left.printTree()
         if self.right:
             self.right.printTree()
         print(self.root)
-        
     
     def bfs(self, root):
         queue = [root]
