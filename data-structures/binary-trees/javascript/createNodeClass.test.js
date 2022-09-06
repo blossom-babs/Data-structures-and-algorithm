@@ -14,6 +14,7 @@ class BinaryTree {
     this.root = null
   }
 
+  
   insert(root, data) {
     let newNode = new Node(data)
 
@@ -40,6 +41,35 @@ class BinaryTree {
     }
 
   }
+
+  preorder(root){
+    console.log(root.data)
+    if(root.left) this.preorder(root.left)
+    if(root.right) this.preorder(root.right)
+  }
+
+  inorder(root){
+    if(root.left) this.preorder(root.left)
+    console.log(root.data)
+    if(root.right) this.preorder(root.right)
+  }
+
+  postorder(root){
+    if(root.left) this.preorder(root.left)
+    if(root.right) this.preorder(root.right)
+    console.log(root.data)
+  }
+
+  bfs(root){
+    let queue = [root]
+    
+    while(queue.length){
+      let node = queue.shift()
+      console.log(node.data)
+      if(node.left) queue.push(node.left)
+      if(node.right) queue.push(node.right)
+    }
+  }
 }
 
 let tree = new BinaryTree()
@@ -50,7 +80,5 @@ tree.insert(tree.root, 20)
 // tree.insert(tree.root, 87)
 // tree.insert(tree.root, 7)
 // tree.insert(tree.root, 17)
-
-
-
-console.log(tree)
+// tree.inorder(tree.root)
+tree.bfs(tree.root)
