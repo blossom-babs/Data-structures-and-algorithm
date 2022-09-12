@@ -5,7 +5,7 @@
   "main": "",
   "scripts": {
     "test": "jest --coverage",
-    "start": "nodemon .",
+    "start": "clear && npm test ./leetcode/sean-prashad/javascript/22-twoSum.test.js",
     "start-js-tree": "clear && node ./data-structures/binary-trees/javascript/createNodeClass.test.js",
     "run-py": "clear && python ./data-structures/binary-trees/python/1-createNodeClass.py"
   },
