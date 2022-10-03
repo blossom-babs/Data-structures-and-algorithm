@@ -5,7 +5,7 @@
   "main": "",
   "scripts": {
     "test": "jest --coverage",
-    "start": "clear && npm test ./leetcode/sean-prashad/javascript/25-squareSortedArr.test.js",
+    "start": "clear && npm test ./leetcode/sean-prashad/javascript/26-backSpaceStringCompare.test.js",
     "start-js-tree": "clear && node ./data-structures/binary-trees/javascript/createNodeClass.test.js",
     "run-py": "clear && python ./data-structures/binary-trees/python/1-createNodeClass.py"
   },
