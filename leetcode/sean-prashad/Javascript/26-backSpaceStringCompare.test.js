@@ -31,14 +31,10 @@ const backspaceCompare = function (s, t) {
 // 0(n) - TC || 0(1) - sc
 
 const backspaceCompareTwo = (s, t) => {
-  let sPtr = s.length - 1
-  let tPtr = t.length - 1
+  let [sPtr, tPtr] = [s.length - 1, t.length - 1]
+  let [sSkip, tSkip] = [0, 0]
+  let [sNew, tNew] = ['', '']
 
-  let sSkip = 0
-  let tSkip = 0
-
-  let sNew = ''
-  let tNew = ''
 
   while(sPtr >= 0 || tPtr >= 0){
     
