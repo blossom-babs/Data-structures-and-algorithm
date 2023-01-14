@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/backspace-string-compare/solutions/?orderBy=most_votes&languageTags=javascript&topicTags=two-pointers
+// https://leetcode.com/problems/backspace-string-compare
 // 0(n + m ) - TC | 0(1) - SC
 
 const backspaceCompare = function (s, t) {
